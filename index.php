@@ -6,7 +6,11 @@
 
  <?php
  echo "Hello World!";
- ?>
+ 
+ echo "Hi there - heck I'm online!";  
+  ?>
+  
+  
 
  </body>
  </html> 
